@@ -1,4 +1,4 @@
-# ****RayAura🚀 :- Navigate-Detect-Protect-The-Future-of-Smart-Vision.****
+# ****👓RayAura🚀 :- Navigate-Detect-Protect-The-Future-of-Smart-Vision.****
 ## 📌 About RayAura & its Description
 Rayaura is an AI-powered smart glasses system designed to enhance vision, accessibility, and navigation. It integrates object detection, voice assistance, GPS, and health monitoring, making it ideal for visually impaired individuals, security personnel, and tech enthusiasts.
 
@@ -19,4 +19,16 @@ Rayaura is an AI-powered smart glasses system designed to enhance vision, access
 
 ## 📸 Screenshots/Demos
 [Filename](Smart-Glasses.png)
+
+## 🏆 Achievements
+📌 Developed as part of [Level-Up Hackthon].
+
+
+## 👥 Team Members
+- **Chanchal Karna Chavhan** – Project Lead & Developer 
+- **Shraddha Sunil Chavan** – AI & ML Engineer 
+- **Kunal Sharad Gawand** – Hardware & IoT Specialist 
+- **Sanika Raosaheb More** – UI/UX Designer
+- **Swarup Sandhan** – Embedded Systems Expert
+
 
