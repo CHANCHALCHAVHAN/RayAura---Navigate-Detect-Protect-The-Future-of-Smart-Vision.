@@ -18,4 +18,5 @@ Rayaura is an AI-powered smart glasses system designed to enhance vision, access
 🔹 Other Tools: Google Text-to-Speech API, IoT Sensors
 
 ## 📸 Screenshots/Demos
-![Rayaura Demo]("C:\Users\sakuc\Downloads\Smart-Glasses.png")
+[Filename](Smart-Glasses.png)
+
